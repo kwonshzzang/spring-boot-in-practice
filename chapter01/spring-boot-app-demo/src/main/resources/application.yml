@@ -1,3 +1,18 @@
 spring:
   application:
     name: spring-boot-app-demo
+  lifecycle:
+    timeout-per-shutdown-phase: 1m
+
+server:
+  address: localhost
+  port: 9090
+  shutdown: graceful
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+
+
