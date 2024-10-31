@@ -3,6 +3,8 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/chapter01/spring-boot-app-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter02/property-sources" />
+    <file type="web" url="file://$PROJECT_DIR$/chapter02/spring-application" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
